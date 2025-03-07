@@ -87,10 +87,12 @@ Install below plugins:
 <Follow the process as explained in the video>
 
 11. SonarQube configuration in Jenkins
-<Follow the process as explained in the video>
+![image](https://github.com/user-attachments/assets/76d02313-57f0-4172-bf46-1847896732c9)
+
 
 11.1. Tools Configuration in Jenkins
-<Follow the process as explained in the video>
+ ![image](https://github.com/user-attachments/assets/fdfa27a2-2a0b-4ba7-b79a-aa4f91c1e8a4)
+
 
 11.2. Configuration of SonarQube Token in Jenkins
 <Follow the process as explained in the video>
